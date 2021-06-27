@@ -173,3 +173,9 @@
 - [Link](https://drive.google.com/file/d/1-Ia1PY--UeXX5iE0bG1mirwweYRpGUpr/view?usp=sharing)
   
 <br>  
+
+#### CTF open
+- [KADIV](https://github.com/kadiv)
+  - 2020.11.21 / 21:00 ~ 2020.11.22 / 09:00
+
+<br>
